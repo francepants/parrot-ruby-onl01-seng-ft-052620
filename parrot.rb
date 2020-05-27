@@ -3,4 +3,3 @@ def parrot
   "Squawk!"
 end
 
-parrot(phrase)
