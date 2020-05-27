@@ -9,7 +9,7 @@
 # end
 
 
-def parrot
-  puts "Squawk!"
-  "Squawk!"
+def parrot(string = "Squawk!")
+  puts string
+  string
 end
