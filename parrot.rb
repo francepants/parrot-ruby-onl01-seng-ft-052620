@@ -4,5 +4,5 @@ def parrot
 end
 
 def parrot(string)
-  
+  puts string
 end
