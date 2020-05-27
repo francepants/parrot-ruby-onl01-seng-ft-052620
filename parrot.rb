@@ -2,7 +2,7 @@
 #   puts "Squawk!"
 #   "Squawk!"
 # end
-# 
+#
 # def parrot(string)
 #   puts string
 #   string
