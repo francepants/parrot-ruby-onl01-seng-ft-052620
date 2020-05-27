@@ -1,2 +1,2 @@
-# Create method `parrot` that outputs a given phrase and
+e# Create method `parrot` that outputs a given phrase and
 # returns the phrase
